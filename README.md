@@ -1,18 +1,19 @@
-# COVID Sentiment Twitter
+# Invisibility Cloak: Harry Potter
+## “When you are not a magician but still can do magic with some lines of code”.
 
 <p>
-<img align="right" src="https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Images/Image1.png" width="400" height="200" />
+<img align="right" src="https://github.com/sagihaider/Invisibility-Cloak_CW_2021_22/blob/main/Images/invisiblecloak.jpeg" width="400" height="200" />
 </p>
 
 *** 
 
-### Please tweet your work and use hashtag `#UoE2020LovelaceChallengeWeek`
+### Please tweet your work and use hashtag `#UoE2021LovelaceChallengeWeek`
 
 # 1. About Challenge?
 
-## What is sentiment analysis?
+## What is Invisibile Cloak?
 
-Sentiment Analysis is the method of 'computationally' defining if a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion of a presenter.
+We believe everyone is loves Harry Potter, you would know what an Invisibility Cloak is. Yes! It’s the cloak that makes Harry Potter invisible. We will make this happen with few line of Python code.
 
 ### Why sentiment analysis?
 
