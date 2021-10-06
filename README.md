@@ -54,7 +54,12 @@ The hope is that some of these skills are quite general and may apply to any oth
 
 *** 
 
-# 2. Scraping Tweets from Twitter
+# 2. Let's start designing Invisibile Cloak
+
+1. This technique is opposite to the Green Screening. In green screening, we remove background but here we will remove the foreground frame.
+2. Capture and store the background frame
+3. Detect the defined color using color detection and segmentation algorithm.
+4. Segment out the defined colored part by generating a mask.
 
 Following are the suggested steps that you need to follow before you can scrape tweets from Twitter:
 
