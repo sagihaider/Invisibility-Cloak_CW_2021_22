@@ -2,7 +2,7 @@
 ## “When you are not a magician but still can do magic with some lines of code”.
 
 <p>
-<img align="right" src="https://github.com/sagihaider/Invisibility-Cloak_CW_2021_22/blob/main/Images/invisiblecloak.jpeg" width="400" height="200" />
+<img align="right" src="https://github.com/sagihaider/Invisibility-Cloak_CW_2021_22/blob/main/Images/invisiblecloak.jpeg" width="300" height="200" />
 </p>
 
 *** 
