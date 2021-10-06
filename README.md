@@ -13,7 +13,9 @@
 
 ## What is Invisibile Cloak?
 
-We believe everyone is loves Harry Potter, you would know what an Invisibility Cloak is. Yes! It’s the cloak that makes Harry Potter invisible. We will make this happen with few line of Python code.
+An invisibility cloak is a magical garment which renders whomever or whatever it covers invisible. Invisibility cloaks are exceptionally rare and valuable within the wizarding world. We believe everyone loves `Harry Potter` and watched invisble cloak in the movie. Yes! It’s the cloak that makes `Harry Potter` invisible. We will make this happen with few line of Python code.
+
+FYI, the Cloak belonged to Harry‘s father, `James`, but then came into `Dumbledore’s` possession after `James` died. `Dumbledore` is the one who anonymously gifted it to `Harry` during Christmas with a note that says: `"Your father left it in my possession before he died. It is time it was returned to you. Use it well."`
 
 ### Why sentiment analysis?
 
