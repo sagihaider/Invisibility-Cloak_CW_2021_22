@@ -2,7 +2,7 @@
 ## “When you are not a magician but still can do magic with some lines of code”.
 
 <p>
-<img align="right" src="https://c.tenor.com/4tC_NBki6UUAAAAM/harry-potter-daniel-radcliffe.gif" width="300" height="200" />
+<img align="right" src="https://25.media.tumblr.com/f89e642fc0e4f2a7fcab887fd85de03f/tumblr_moedgiFiaY1r6xvfko1_500.gif" width="499" height="201" />
 </p>
 
 *** 
