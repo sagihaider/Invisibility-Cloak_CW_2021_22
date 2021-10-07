@@ -79,9 +79,9 @@ Follow a few suggestions as given below:
 
 *** 
 
-# 4. Thinking/Designing Twitter Sentiment Analysis system on paper
+# 4. Thinking/Designing Invisible Cloak system on paper
 
-Once you become familiar with the building blocks, how to trigger them you need to start thinking about the overall design of your Twitter Sentiment Analysis-
+Once you become familiar with the building blocks, how to trigger them you need to start thinking about the overall design of your Invisible Cloak-
 
 * What building blocks are needed?
 * How to connect them?
