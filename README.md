@@ -2,7 +2,7 @@
 <img align="left" src="https://edabroad.nau.edu/_customtags/ct_Image.cfm?Image_ID=43322" width="300" height="80" /> 
 </p>
 
-# CSEE Chanllenge Week (2021-2022)
+# CSEE Challenge Week (2021-2022)
 # Title: " Designing Invisible Cloak: Harry Potter"
 ## “When you are not a magician but still can do magic with some lines of code”.
 
@@ -113,10 +113,10 @@ In addition to the basic Invisible Cloak, you may think of other features that w
 * Any other novel ideas are most welcome. 
 
 
-## What you will gain after completing the challenge week:
+## What you will gain after completing the Challenge week:
 
 
-While working on this challenge, you will gain the following skills (and hopefully be curious to learn more).
+While working on this Challenge, you will gain the following skills (and hopefully be curious to learn more).
 
 * Finding information from the web about computer vision, python, and artificial intelligence. Good sources of information such as  GitHub, StackOverflow, Medium, etc. 
 * What is computer vision and why it is useful? 
