@@ -2,7 +2,7 @@
 ## “When you are not a magician but still can do magic with some lines of code”.
 
 <p>
-<img align="right" src="https://25.media.tumblr.com/f89e642fc0e4f2a7fcab887fd85de03f/tumblr_moedgiFiaY1r6xvfko1_500.gif" width="499" height="201" />
+<img align="centre" src="https://25.media.tumblr.com/f89e642fc0e4f2a7fcab887fd85de03f/tumblr_moedgiFiaY1r6xvfko1_500.gif" width="499" height="201" /> 
 </p>
 
 *** 
@@ -13,24 +13,24 @@
 
 ## What is Invisibile Cloak?
 
-An invisibility cloak is a magical garment which renders whomever or whatever it covers invisible. Invisibility cloaks are exceptionally rare and valuable within the wizarding world. We believe everyone loves `Harry Potter` and watched invisble cloak in the movie. Yes! It’s the cloak that makes `Harry Potter` invisible. You can make this happen with few line of Python code.
+An invisibility cloak is a magical garment that renders whomever or whatever it covers invisible. Invisibility cloaks are exceptionally rare and valuable within the wizarding world. We believe everyone loves `Harry Potter` and watched invisible cloak in the movie. Yes! It’s the cloak that makes `Harry Potter` invisible. You can make this happen with a few lines of Python code.
 
-FYI, the Cloak belonged to Harry‘s father, `James`, but then came into `Dumbledore’s` possession after `James` died. `Dumbledore` is the one who anonymously gifted it to `Harry` during Christmas with a note that says: `"Your father left it in my possession before he died. It is time it was returned to you. Use it well."`
+FYI, the Cloak belonged to Harry‘s father, `James`, but then came into `Dumbledore's possession after `James` died. `Dumbledore` is the one who anonymously gifted it to `Harry` during Christmas with a note that says: `"Your father left it in my possession before he died. It is time it was returned to you. Use it well."`
 
 
 ## General information 
 
 * For this challenge you will be working in groups of 6. You will need to come up with the design, discussing and working together as a team. Also, you will need to allocate tasks to team members (who will do what, when, how), monitor progress, take actions if something does not work as expected and so on. It is all about team management and working in a team. 
 
-* In general, every team member is expected to put around 20 hours of work.
+* In general, every team member is expected to put in around 20 hours of work.
 
 * And don’t forget to shoot videos, take pictures (both for your presentation and the 10 seconds a day video)
 
-* I would suggest using [Anaconda](https://www.anaconda.com/). Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS. You are only required to install anaconda. 
+* I would suggest using [Anaconda](https://www.anaconda.com/). Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS. You are only required to install an Anaconda. 
 
-* Please verify that your Spyder in working once Anaconda installation finished. Open your terminal/command prompt and type `spyder`. Waiting until it opens up. 
+* Please verify that your Spyder is working once the Anaconda installation is finished. Open your terminal/command prompt and type `spyder`. Waiting until it opens up. 
 
-* Once it open, install opencv package using command `!pip install opencv-python` in the Spyder console.
+* Once it open, install the "OpenCV" package using the command `!pip install OpenCV-python` in the Spyder console.
 
 *** 
 
