@@ -3,7 +3,7 @@
 </p>
 
 # CSEE Chanllenge Week (2021-2022)
-# Title: " Designing Invisibile Cloak: Harry Potter"
+# Title: " Designing Invisible Cloak: Harry Potter"
 ## “When you are not a magician but still can do magic with some lines of code”.
 
 <p>
@@ -16,9 +16,9 @@
 
 # 1. About Challenge?
 
-## What is Invisibile Cloak?
+## What is Invisible Cloak?
 
-An invisibility cloak is a magical garment that renders whomever or whatever it covers invisible. Invisibility cloaks are exceptionally rare and valuable within the wizarding world. We believe everyone loves `Harry Potter` and watched invisible cloak in the movie. Yes! It’s the cloak that makes `Harry Potter` invisible. You can make this happen with a few lines of Python code.
+An Invisible cloak is a magical garment that renders whomever or whatever it covers Invisible. Invisible cloaks are exceptionally rare and valuable within the wizarding world. We believe everyone loves `Harry Potter` and watched Invisible cloak in the movie. Yes! It’s the cloak that makes `Harry Potter` invisible. You can make this happen with a few lines of Python code.
 
 FYI, the Cloak belonged to Harry‘s father, `James`, but then came into `Dumbledore's possession after `James` died. `Dumbledore` is the one who anonymously gifted it to `Harry` during Christmas with a note that says: `"Your father left it in my possession before he died. It is time it was returned to you. Use it well."`
 
@@ -39,7 +39,7 @@ FYI, the Cloak belonged to Harry‘s father, `James`, but then came into `Dumble
 
 *** 
 
-# 2. Let's start designing Invisibile Cloak
+# 2. Let's start designing Invisible Cloak
 
 1. Accessing the webcam 
 
